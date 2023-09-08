@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "question": "what color is the ocean",
+      "answer": "blue",
+      "opt": ["green", "red", "yellow", "pink", "purple"]
+    },
+    {
+      "question": "Do you like JavaScript",
+      "answer": "yes",
+      "opt": ["no"]
+    },
+    {
+      "question": "Do you like HTML",
+      "answer": "yes",
+      "opt": ["no"]
+    },
+    {
+      "question": "Do you like Pizza",
+      "answer": "yes",
+      "opt": ["no"]
+    },
+    {
+      "question": "Do you like math",
+      "answer": "yes",
+      "opt": ["no"]
+    },
+    {
+      "question": "What is 4 + 4",
+      "answer": "8",
+      "opt": ["10", "9"]
+    },
+    {
+      "question": "What is 100 * 4",
+      "answer": "400",
+      "opt": ["300", "900", "60"]
+    },
+    {
+      "question": "Which of these are not a programming language?",
+      "answer": "C++",
+      "opt": ["Java", "Python", "JavaScript"]
+    },
+    {
+      "question": "How many states does america has",
+      "answer": "50",
+      "opt": ["20", "6", "99"]
+    }
+  ]
+}
